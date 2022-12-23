@@ -16,7 +16,7 @@ public class CardService
     string[] Jsonfilstier2 = { "cards.json" };
     public CardService(MongoService service)
     {
-        _cardCollection = service.Client.GetDatabase("BED_Assignment_4_grp4").GetCollection<Card>("cards");
+        _cardCollection = service.client.GetDatabase("BED_Assignment_4_grp4").GetCollection<Card>("cards");
         SeedCardData();
     }
 
