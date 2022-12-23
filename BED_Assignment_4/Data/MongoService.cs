@@ -5,21 +5,30 @@ using BED_Assignment_4_grp4.Models;
 namespace BED_Assignment_4_grp4.Data
 {
     public class MongoService
+    
     {
+        private const string connectionString = "mongodb://localhost:27017";
+        private const string databaseName = "BED4";
 
-        private readonly MongoClient _client;
+        private MongoClient client;
+        private IMongoDatabase db;
 
-        public MongoService()
+       
+        public IMongoCollection<T> ConnectToMongo<T>(in string collection)
         {
-            _client = new MongoClient("mongodb://localhost:27017");
-        }
-        public MongoClient Client
-        {
-            get
-            {
-                return _client;
-            }
+            client = new MongoClient(connectionString);
+            db = client.GetDatabase(databaseName);
+            return db.GetCollection<T>(collection);
         }
 
+        public MongoClient GetClient()
+        {
+            return client;
+        }
+
+        public IMongoDatabase GetDatabase()
+        {
+            return db;
+        }
     }
 }

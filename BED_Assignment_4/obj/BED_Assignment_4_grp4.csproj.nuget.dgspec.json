@@ -1,34 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serfv\\OneDrive\\Desktop\\AU\\4.semester\\BED\\BED_Assignment_4\\BED_Assignment_4_grp4.csproj": {}
+    "C:\\Users\\rawe9\\Documents\\GitHub\\BED_Assignment4\\BED_Assignment_4\\BED_Assignment_4_grp4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serfv\\OneDrive\\Desktop\\AU\\4.semester\\BED\\BED_Assignment_4\\BED_Assignment_4_grp4.csproj": {
+    "C:\\Users\\rawe9\\Documents\\GitHub\\BED_Assignment4\\BED_Assignment_4\\BED_Assignment_4_grp4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serfv\\OneDrive\\Desktop\\AU\\4.semester\\BED\\BED_Assignment_4\\BED_Assignment_4_grp4.csproj",
+        "projectUniqueName": "C:\\Users\\rawe9\\Documents\\GitHub\\BED_Assignment4\\BED_Assignment_4\\BED_Assignment_4_grp4.csproj",
         "projectName": "BED_Assignment_4_grp4",
-        "projectPath": "C:\\Users\\serfv\\OneDrive\\Desktop\\AU\\4.semester\\BED\\BED_Assignment_4\\BED_Assignment_4_grp4.csproj",
-        "packagesPath": "C:\\Users\\serfv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serfv\\OneDrive\\Desktop\\AU\\4.semester\\BED\\BED_Assignment_4\\obj\\",
+        "projectPath": "C:\\Users\\rawe9\\Documents\\GitHub\\BED_Assignment4\\BED_Assignment_4\\BED_Assignment_4_grp4.csproj",
+        "packagesPath": "C:\\Users\\rawe9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rawe9\\Documents\\GitHub\\BED_Assignment4\\BED_Assignment_4\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\serfv\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\rawe9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

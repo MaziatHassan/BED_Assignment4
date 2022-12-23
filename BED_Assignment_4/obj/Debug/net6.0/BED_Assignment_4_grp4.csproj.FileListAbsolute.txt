@@ -1,0 +1,7 @@
+C:\Users\rawe9\Documents\GitHub\BED_Assignment4\BED_Assignment_4\obj\Debug\net6.0\BED_Assignment_4_grp4.csproj.AssemblyReference.cache
+C:\Users\rawe9\Documents\GitHub\BED_Assignment4\BED_Assignment_4\obj\Debug\net6.0\BED_Assignment_4_grp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rawe9\Documents\GitHub\BED_Assignment4\BED_Assignment_4\obj\Debug\net6.0\BED_Assignment_4_grp4.AssemblyInfoInputs.cache
+C:\Users\rawe9\Documents\GitHub\BED_Assignment4\BED_Assignment_4\obj\Debug\net6.0\BED_Assignment_4_grp4.AssemblyInfo.cs
+C:\Users\rawe9\Documents\GitHub\BED_Assignment4\BED_Assignment_4\obj\Debug\net6.0\BED_Assignment_4_grp4.csproj.CoreCompileInputs.cache
+C:\Users\rawe9\Documents\GitHub\BED_Assignment4\BED_Assignment_4\obj\Debug\net6.0\BED_Assignment_4_grp4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rawe9\Documents\GitHub\BED_Assignment4\BED_Assignment_4\obj\Debug\net6.0\BED_Assignment_4_grp4.MvcApplicationPartsAssemblyInfo.cache
