@@ -7,7 +7,7 @@ using BED_Assignment_4_grp4.Data;
 //using BED_Assignment_4_grp4.Resources;
 
 
-namespace BED_Assignment_4_grp4.Data;
+//namespace BED_Assignment_4_grp4.Data;
 
 public class CardService
 {
