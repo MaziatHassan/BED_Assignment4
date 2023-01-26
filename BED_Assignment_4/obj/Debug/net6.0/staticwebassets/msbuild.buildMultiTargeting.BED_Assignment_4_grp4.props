@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BED_Assignment_4_grp4.props" />
+</Project>

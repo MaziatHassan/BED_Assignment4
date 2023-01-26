@@ -4,11 +4,7 @@ using System.Text.Json;
 using BED_Assignment_4_grp4.Models;
 using BED_Assignment_4_grp4.Data;
 
-//using BED_Assignment_4_grp4.Resources;
-
-
-//namespace BED_Assignment_4_grp4.Data;
-
+namespace BED_Assignment_4_grp4.Data;
 public class CardService
 {
     private readonly IMongoCollection<Card> _cardCollection;
@@ -16,7 +12,7 @@ public class CardService
     string[] Jsonfilstier2 = { "cards.json" };
     public CardService(MongoService service)
     {
-        _cardCollection = service.client.GetDatabase("BED_Assignment_4_grp4").GetCollection<Card>("cards");
+        _cardCollection = service.Client.GetDatabase("BED_Assignment_4_grp4").GetCollection<Card>("cards");
         SeedCardData();
     }
 
